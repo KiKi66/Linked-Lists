@@ -27,5 +27,3 @@ find(value) returns the index of the node containing value, or null if not found
 toString represents your LinkedList objects as strings, so you can print them out and preview them in the console. The format should be: ( value ) -> ( value ) -> ( value ) -> null
 
 insertAt(value, index) that inserts a new node with the provided value at the given index.
-
-removeAt(index) that removes the node at the given index.
